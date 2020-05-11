@@ -3,7 +3,7 @@
     padding-top: 0;
    }
   .below-site-header-outlet {
-    padding-top: 2.0em;
+    padding-top: 1.8em;
   }
   
   .top-banner {
@@ -16,16 +16,18 @@
     font-weight: 100;
     text-align: center;}
 .slpHeroBanner {
-    background: url(https://bbs-test.quecteltest.com/uploads/default/original/1X/f6a199c8cd948a3d92b44a91695c8f744425e02f.jpg) no-repeat top center;
+    background: url(https://eip.quectel.com/uploads/default/original/1X/16b9c663abc16ec9a8f13e23f6765adf96706152.jpg) no-repeat top center;
     background-size: cover;
-    background-color: #000;
+    background-color: #145ca6;
     height: auto;
     max-width: 1920px;
     margin: auto;
 }
 
+
 .slpInsideText {
-    max-width: 1000px;
+    @media screen and (min-width:1475px){max-width: 1360px;}
+    @media screen and (max-width:1474px){max-width: 1000px;}
     padding: 100px 10px 150px 30px;
     margin: auto;
     text-align: left;
@@ -63,7 +65,9 @@
     background-color:#fff;
     color:#000;
 }
-.homepage-light{background-color: #f8f9fa;}
+.homepage-light{background-color: #f8f9fa;
+    
+}
 .homepagesection {
     align-items:center;
     padding-top:60px;
@@ -91,23 +95,21 @@
   font-family: 'Raleway', Arial, sans-serif;
   position: relative;
   display: inline-block;
-
   color:#ffffff;
   text-align:left;
-  background-color:#000000;
+  background-color:#145ca6;
   font-size:16px;
 }
 .homehover2 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-transition: all 0.4s ease-in;
-  transition: all 0.4s ease-in;
+
 }
 .homehover2 img {
   position: relative;
   max-width: 100%;
   vertical-align: top;
-  opacity: 0.4;
+  opacity: 0.3; /*  */
 }
 .homehover2 figcaption {
   position: absolute;
@@ -116,7 +118,7 @@
   width: 100%;
   height: 100%;
   z-index: 1;
-  opacity: .7;
+  opacity: 1;
   padding: 20px 30px;
 }
 .homehover2 figcaption:before,
@@ -155,18 +157,7 @@
   left: 0;
   z-index: 1;
 }
-.homehover2:before,
-.homehover2:after,
-.homehover2 figcaption:before,
-.homehover2 figcaption:after {
-  position: absolute;
-  content: '';
-  background-color: #ffffff;
-  z-index: 1;
-  -webkit-transition: all 0.4s ease-in;
-  transition: all 0.4s ease-in;
-  opacity: 0.8;
-}
+
 .homehover2:before,
 .homehover2:after {
   height: 1px;
@@ -182,7 +173,7 @@
 }
 .homehover2:hover img,
 .homehover2.hover img {
-  opacity: 0.1;
+  opacity: 0;
 }
 .homehover2:hover figcaption,
 .homehover2.hover figcaption {
@@ -200,16 +191,7 @@
 .homehover2.hover:after {
   width: 100%;
 }
-.homehover2:hover:before,
-.homehover2.hover:before,
-.homehover2:hover:after,
-.homehover2.hover:after,
-.homehover2:hover figcaption:before,
-.homehover2.hover figcaption:before,
-.homehover2:hover figcaption:after,
-.homehover2.hover figcaption:after {
-  opacity: 0.6;
-}
+
 
 /*homehover3*/
 
