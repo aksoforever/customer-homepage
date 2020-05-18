@@ -10,24 +10,24 @@ en:
   
   home_category_1_title: "Publicity"
   home_category_1_text: "Notice announcements, trends in the Internet of Things industry, VIs and brands, team presence, corporate culture stories"
-  home_category_1_button: "<a href="/c/publicity/5"></a>"
+  home_category_1_button: "<a href='/c/publicity/5'></a>"
   
   home_category_2_title: "Rules and regulations"
   home_category_2_text: "Employee manual, customer service system, quality and safety system, technical management system, financial and audit system, etc."
-  home_category_2_button: "<a href="/c/regulations/6"></a>"
+  home_category_2_button: "<a href='/c/regulations/6'></a>"
 
   home_category_3_title: "Study & Share"
   home_category_3_text: "Let us acquire knowledge in the exchange of ideas and collisions, inspire wisdom, cultivate the soul and satisfy the spirit."
-  home_category_3_button: "<a href="/c/leaning/22"></a>"
+  home_category_3_button: "<a href='/c/leaning/22'></a>"
 
   home_category_4_title: "Internal talent market"
   home_category_4_text: "This is the internal talent mobility zone of Quectel. <br> Internal transfer of employees."
-  home_category_4_button: "<a href="/c/hr-resource/35"></a>"
+  home_category_4_button: "<a href='/c/hr-resource/35'></a>"
 
   home_category_5_title: "Quectel circle"
   home_category_5_text: "Employees work and life communication circle, cultural and sports associations, new employee circles and other open communication and free expression."
-  home_category_5_button: "<a href="/c/groups/7"></a>"
+  home_category_5_button: "<a href='/c/groups/7'></a>"
   
   home_category_6_title: "Opinions, feedback area"
   home_category_6_text: "Suggestions on product and business-related feedback"
-  home_category_6_button: "<a href="/c/feedback/19"></a>"
+  home_category_6_button: "<a href='/c/feedback/19'></a>"
