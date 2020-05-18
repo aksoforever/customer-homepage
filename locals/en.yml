@@ -1,4 +1,4 @@
 en:
-  table_of_contents: "table of contents"
-  insert_table_of_contents: "Insert table of contents"
-  test_field: "<a href='#'>baidu.com</a>"
+  homebanner_title: "Welcom to Quectel Community!"
+  homebanner_text: "This is a closed community for everyone to learn, live, discuss issues, welcome everyone to actively share and exchange. When posting questions or feedback, be sure to delete sensitive information and provide subject categories."
+  homebanner_button: "<a href="/t/topic/7">General Outline</a>"
