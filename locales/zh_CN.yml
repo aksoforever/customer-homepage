@@ -3,3 +3,33 @@ zh_CN:
   homebanner_button: "<a href='/t/topic/7'>社区总纲</a>"
   homebanner_text: 这是一个非公开的社区，供大家学习，生活，讨论问题的地方，欢迎大家能积极分享和交流。发布问题或反馈时，请务必删除敏感信息，并提供主题类别。
   homebanner_title: 欢迎来到移远员工社区!
+  
+  home_categories_title: "社区板块"
+  home_categories_text: "请选择你需要感兴趣的板块进行讨论，非常欢迎你对我们板块划分提供增加或修正意见。"
+  
+  home_category_1_title: "宣传公示"
+  home_category_1_text: "通知公告、移远通信动态、物联网行业动向、移远VI与品牌、移远通信团队风采、企业文化故事"
+  home_category_1_button: "<a href="/c/publicity/5"></a>"
+  
+  home_category_2_title: "规章制度"
+  home_category_2_text: "员工手册、客户服务制度、质量安全制度、技术管理制度、财务与审计制度、人力资源制度等。"
+  home_category_2_button: "<a href="/c/regulations/6"></a>"
+
+  home_category_3_title: "学习交流"
+  home_category_3_text: "让我们在思想交流和碰撞中获得知识，感悟智慧，陶冶心灵，满足精神。"
+  home_category_3_button: "<a href="/c/leaning/22"></a>"
+
+  home_category_4_title: "内部人才市场"
+  home_category_4_text: "这里是移远内部人才流动专区<br>员工内部转岗"
+  home_category_4_button: "<a href="/c/hr-resource/35"></a>"
+
+  home_category_5_title: "移远圈子"
+  home_category_5_text: "员工工作、生活交流圈，文体协会、新员工圈子等开放交流、自由表达。"
+  home_category_5_button: "<a href="/c/groups/7"></a>"
+  
+  home_category_6_title: "意见、反馈专区"
+  home_category_6_text: "产品及业务相关反馈建议<br>企业管理，公司规章制度反馈建议"
+  home_category_6_button: "<a href="/c/feedback/19"></a>"
+
+   
+   
