@@ -1,20 +1,22 @@
-en:
-  footer_company_title: "Quectel Company"
+--- 
+en: 
   footer_company_link1: "<a class='footer-section-link' href='https://www.quectel.com' target='_blank'>Quectel Website</a>"
   footer_company_link2: "<a class='footer-section-link' href='https://forums.quectel.com' target='_blank'>Technical Forums</a>"
   footer_company_link3: "<a class='footer-section-link' href='https://iot.quectel.com/' target='_blank'>Quecloud (iot)</a>"
   footer_company_link4: "<a class='footer-section-link' href='https://yiyuanznsb.tmall.com/' target='_blank' >Tmall Store</a>"
-  
-  footer_resources_title: "Common system"
+  footer_company_title: "Quectel Company"
   footer_resource_link1: "<a class='footer-section-link' href='http://bpm.quectel.com/' target='_blank'>BPM Process management</a>"
   footer_resource_link2: "<a class='footer-section-link' href='http://meeting.quectel.com:9188/login' target='_blank'>Book a meeting room</a>"
   footer_resource_link3: "<a class='footer-section-link' href='https://cnquectel.sharepoint.com/Home/default.aspx' target='_blank'>SharePoint</a>"
   footer_resource_link4: "<a class='footer-section-link' href='http://project.quectel.com:8089/' target='_blank'>Project Management</a>"
   footer_resource_link5: "<a class='footer-section-link' href='https://training.quectel.com:8601/' target='_blank'>Traning Management</a>"
   footer_resource_link6: "<a class='footer-section-link' href='http://mail.quectel.com/' target='_blank'>Email login vi browser</a>"
-  
-  footer_systems_title: "Company Regulations"
+  footer_resources_title: "Common system"
   footer_system_link1: "<a class='footer-section-link' href='/c/regulations/governance-and-listing-rules/15'>Governance and Listing</a>"
+  footer_system_link10: "<a class='footer-section-link' href='/c/regulations/purchase-management/45'>Procurement management</a>"
+  footer_system_link11: "<a class='footer-section-link' href='/c/regulations/production-quality-material/47'>Production, Quality and Material </a>"
+  footer_system_link12: "<a class='footer-section-link' href='/c/regulations/RD-project-and-product/65'>R & D project and product management</a>"
+  footer_system_link13: "<a class='footer-section-link' href='/c/regulations/ohters/66'>Other Documents</a>"
   footer_system_link2: "<a class='footer-section-link' href='/c/regulations/compliance-requirements/14'>Internal audit and Compliance</a>"
   footer_system_link3: "<a class='footer-section-link' href='/c/regulations/financial-and-fund/38'>Financial and Fund</a>"
   footer_system_link4: "<a class='footer-section-link' href='/c/regulations/hr-admin/39'>HR & Admin</a>"
@@ -23,7 +25,4 @@ en:
   footer_system_link7: "<a class='footer-section-link' href='/c/regulations/asset-management/42'>Asset management</a>"
   footer_system_link8: "<a class='footer-section-link' href='/c/regulations/staff-development-and-training/43'>Staff development and training</a>"
   footer_system_link9: "<a class='footer-section-link' href='/c/regulations/Information-and-security-management/44'>Information management and security</a>"
-  footer_system_link10: "<a class='footer-section-link' href='/c/regulations/purchase-management/45'>Procurement management</a>"
-  footer_system_link11: "<a class='footer-section-link' href='/c/regulations/production-quality-material/47'>Production, Quality and Material </a>"
-  footer_system_link12: "<a class='footer-section-link' href='/c/regulations/RD-project-and-product/65'>R & D project and product management</a>"
-  footer_system_link13: "<a class='footer-section-link' href='/c/regulations/ohters/66'>Other Documents</a>"
+  footer_systems_title: "Company Regulations"
