@@ -1,3 +1,5 @@
+@import "common/foundation/variables";
+
 .custom-homepage {
   #main-outlet {
     padding-top: 0;
@@ -18,7 +20,7 @@
 .slpHeroBanner {
     background: url(https://eip.quectel.com/uploads/default/original/1X/16b9c663abc16ec9a8f13e23f6765adf96706152.jpg) no-repeat top center;
     background-size: cover;
-    background-color: #145ca6;
+    background-color: $tertiary;
     height: auto;
     max-width: 1920px;
     margin: auto;
@@ -97,7 +99,7 @@
   display: inline-block;
   color:#ffffff;
   text-align:left;
-  background-color:#145ca6;
+  background-color:$tertiary;
   font-size:16px;
 }
 .homehover2 * {
